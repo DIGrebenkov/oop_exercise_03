@@ -1,0 +1,52 @@
+Menu:
+0. Print menu.
+1. Enter trapezoid.
+2. Enter rhombus.
+3. Enter pentagon.
+4. Print center, vertices and square of all figures.
+5. Print sum of squares of all figures in array.    
+6. Delete figure.
+7. Quit the program.
+Choose option: 8
+Error: incorrect option.
+Choose option: 6
+Enter index: 0
+Error: incorrect index.
+Choose option: 6
+Enter index: 14
+Error: incorrect index.
+Choose option: 5
+Error: array is empty.
+Choose option: 4
+Array is empty.
+Choose option: 2
+Enter coordinates of left and bottom vertices: 0 1 1 0
+Choose option: 4
+Figure [0]:
+Center: (1, 1);
+Vertices of this figure:
+(0, 1)
+(1, 0)
+(2, 1)
+(1, 2)
+Square: 2
+Choose option: 6
+Enter index: 2
+Error: incorrect index.
+Choose option: 6
+Enter index: 1
+Error: incorrect index.
+Choose option: 6 
+Enter index: -1
+Error: incorrect index.
+Choose option: 5
+Sum of squares of all figures in array: 2
+Choose option: 6
+Enter index: 0
+Choose option: 4
+Array is empty.
+Choose option: 5
+Error: array is empty.
+Choose option: 8
+Error: incorrect option.
+Choose option: 7
